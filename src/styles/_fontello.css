@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'fontello';
+  src: url('../../assets/fonts/fontello.eot?97440488');
+  src: url('../../assets/fonts/fontello.eot?97440488#iefix') format('embedded-opentype'),
+       url('../../assets/fonts/fontello.woff2?97440488') format('woff2'),
+       url('../../assets/fonts/fontello.woff?97440488') format('woff'),
+       url('../../assets/fonts/fontello.ttf?97440488') format('truetype'),
+       url('../../assets/fonts/fontello.svg?97440488#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+}
+
+.icon-down:before { content: '\e804'; } /* '' */
+.icon-ico-1:before { content: '\e8d8'; } /* '' */
+.icon-ico-2:before { content: '\e8d9'; } /* '' */
+.icon-ico-3:before { content: '\e8da'; } /* '' */
+.icon-ico-4:before { content: '\e8db'; } /* '' */
+.icon-ico-5:before { content: '\e8dc'; } /* '' */
+.icon-ico-6:before { content: '\e8dd'; } /* '' */
+.icon-ico-7:before { content: '\e8de'; } /* '' */
